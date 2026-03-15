@@ -78,7 +78,7 @@ const Checkout = () => {
       clearCart();
       
       // Redirect to confirmation
-      navigate('/order-confirmation', { state: { orderId: order.id } });
+      navigate(`/order-confirmation/${order.id}`);
       
     } catch (error) {
       toast.error('Payment failed. Please try again.');
