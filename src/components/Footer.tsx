@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <div className="bg-blue-600 text-white px-3 py-1 rounded-lg font-bold text-xl w-fit">
-              KHMART
+              MINISHOP
             </div>
             <p className="text-gray-300 text-sm">
               Your one-stop destination for premium shoes, clothes, and bags. 
@@ -93,7 +93,7 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-gray-400" />
                 <span className="text-gray-300 text-sm">
-                  info@khmart.com
+                  info@minishop.com
                 </span>
               </div>
             </div>
@@ -104,7 +104,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 KHMART. All rights reserved.
+              © 2024 MINISHOP. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">

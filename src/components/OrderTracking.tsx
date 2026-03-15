@@ -17,7 +17,7 @@ const OrderTracking = () => {
       title: 'Order Preparing',
       description: 'We\'re getting your items ready',
       icon: Package,
-      location: 'KHMART Warehouse, Phnom Penh'
+      location: 'MINISHOP Warehouse'
     },
     {
       id: 'shipping',

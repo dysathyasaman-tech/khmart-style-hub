@@ -53,7 +53,7 @@ export const useAuthStore = create<AuthState>((set, get) => ({
       email,
       password,
       name,
-      isAdmin: email === 'admin@khmart.com'
+      isAdmin: email === 'admin@minishop.com'
     };
     
     users.push(newUser);

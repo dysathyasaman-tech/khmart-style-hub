@@ -49,8 +49,8 @@ const ContactUs = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-1">Email</h3>
-                  <p className="text-gray-600">support@khmart.com</p>
-                  <p className="text-gray-600">sales@khmart.com</p>
+                  <p className="text-gray-600">support@minishop.com</p>
+                  <p className="text-gray-600">sales@minishop.com</p>
                 </div>
               </div>
 
