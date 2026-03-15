@@ -1,11 +1,10 @@
 
 import React from 'react';
-import { useLocation, Link } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import { CheckCircle, Package, Truck, MapPin } from 'lucide-react';
 
 const OrderConfirmation = () => {
-  const location = useLocation();
-  const orderId = location.state?.orderId;
+  const { orderId } = useParams();
 
   if (!orderId) {
     return (
