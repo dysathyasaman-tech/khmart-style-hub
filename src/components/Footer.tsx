@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <div className="bg-blue-600 text-white px-3 py-1 rounded-lg font-bold text-xl w-fit">
-              KHMART
+              MINISHOP
             </div>
             <p className="text-gray-300 text-sm">
               Your one-stop destination for premium shoes, clothes, and bags. 

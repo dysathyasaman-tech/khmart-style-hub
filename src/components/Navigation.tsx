@@ -57,7 +57,7 @@ const Navigation: React.FC<NavigationProps> = ({ onAuthClick }) => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 mr-8">
             <div className="bg-blue-600 text-white px-3 py-1 rounded-lg font-bold text-xl">
-              KHMART
+              MINISHOP
             </div>
           </Link>
 
